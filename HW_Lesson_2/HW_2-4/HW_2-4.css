@@ -1,0 +1,57 @@
+body{
+
+}
+
+.Square {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+.RubikPixels{
+    font-family: "Rubik Pixels", system-ui;
+    width:300px;
+    height:300px;
+    align-content: center;
+    text-align: center;
+    background-color: rgba(255, 127, 80, 0.31);
+
+}
+.SedgwickAveDisplay{
+    font-family: "Sedgwick Ave Display", cursive;
+    width:300px;
+    height:300px;
+    align-content: center;
+    background-color: rgba(255, 127, 80, 0.31);
+    text-align: center;
+}
+    .dancingscript{
+    font-family: "Dancing Script", cursive;
+        width: 300px;
+        height: 300px;
+        align-content: center;
+        background-color: rgba(255, 127, 80, 0.31);
+        text-align: center;
+
+}
+
+.FjallaOne{
+    font-family: "Fjalla One", sans-serif;
+    width:300px;
+    height:300px;
+    align-content: center;
+    background-color: rgba(255, 127, 80, 0.31);
+    text-align: center;
+
+}
+.IndieFlower{
+    font-family: "Indie Flower", cursive;
+    width:300px;
+    height:300px;
+    align-content: center;
+    background-color: rgba(255, 127, 80, 0.31);
+    text-align: center;
+}

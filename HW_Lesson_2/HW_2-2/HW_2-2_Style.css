@@ -1,0 +1,24 @@
+
+
+.BOX{
+
+    display: flex;
+    height:300px;
+    background-color: rgba(255, 162, 125, 0.46);
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.Square{
+
+display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(218, 6, 6, 0.99);
+
+}
+.Square:hover{
+    background-color: dimgrey;
+    border-radius: 50%;
+}
