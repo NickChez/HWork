@@ -1,0 +1,33 @@
+body{
+    padding: 20px;
+}
+header{
+    height: 30vh;
+    background-color: rgba(0, 81, 255, 0.41);
+    margin-bottom: 20px;
+}
+.Fix{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+section{
+    padding: 20px 0px;
+    width: 40vh;
+    height: 30vh;
+    background-color: rgba(0, 0, 255, 0.58);
+}
+footer{
+    margin-top: 20px;
+    background-color: rgba(0, 81, 255, 0.41);
+    height: 35vh;
+}
+header, section, footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 45px;
+
+}

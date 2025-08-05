@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: lightblue;
+    text-align: center;
+
+
+}
+main{
+    display: flex;
+    height: 50vh;
+    background-color: saddlebrown;
+   color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 80%;
+
+
+
+}
+.Info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 80%;
+
+
+
+}
