@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #D9D9D9;
+    height: 5vh;
+}
+main{
+    display: flex;
+    background-color: #D9D9D9;;
+
+
+}
+.box-1{
+    width: 59vw;
+    height: 83vh;
+
+}
+.box-1-1{
+    height: 74vh;
+    background-color: #A4A4A4;
+}
+.box-2{
+    height: 72vh;
+    width: 41vw;
+}
+.boxaside-1{
+    height: 40vh;
+    background-color: #7F7A7A;
+}
+.boxaside-2{
+    height: 34vh;
+    background-color: #615050;
+
+}
+footer{
+    background-color: #AFA9A9;
+    height: 12vh;
+}
