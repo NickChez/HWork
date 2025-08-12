@@ -1,0 +1,24 @@
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kolo{
+    height: 100px;
+    width: 100px;
+    border: 5px dashed red;
+    border-radius: 50%;
+    animation: roter 4s linear infinite alternate;
+
+}
+@keyframes roter{
+    from{
+        transform: rotate(0deg)
+    }
+    to{
+        transform: rotate(360deg) scale(1.5);
+    }
+
+}
