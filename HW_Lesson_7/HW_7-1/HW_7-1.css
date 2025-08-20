@@ -1,0 +1,102 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 132px;
+}
+.form1{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 492px;
+    width: 319px;
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.30);
+}
+p{
+    width: 211px;
+    height: 72px;
+    color: #000;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 4px;
+}
+h2{
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+
+}
+.circle1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border: 4px solid #554C4C;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    top: -50px;
+    background: white;
+}
+.circle2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border: 4px solid #554C4C;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    top: -50px;
+    background: white;
+}
+.circle3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border: 4px solid #554C4C;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    top: -50px;
+    background: white;
+
+}
+.form2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 492px;
+    width: 319px;
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.30);
+
+}
+.form3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 492px;
+    width: 319px;
+    border: 4px solid #554C4C;
+    background: rgba(217, 217, 217, 0.30);
+}
