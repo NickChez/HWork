@@ -1,0 +1,17 @@
+.blok1>ul>li:nth-child(even) {
+    color: #a673ca;
+}
+.blok2>ul>li:nth-child(odd) {
+    font-size: 22px;
+}
+.blok3>ul>li:nth-child(2n+4)::after {
+    content: '!'
+}
+.blok4>ul>li:last-of-type {
+    color: darkorchid;
+
+}
+.blok5>ul>li:first-letter {
+    font-size: 30px;
+    color: rgba(218, 6, 6, 0.99);
+}
